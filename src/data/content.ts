@@ -7,7 +7,7 @@
 export const profile = {
   name: "Santushti Singh",
   roles: ["Software Engineer","Frontend Developer"],
-  status: "Final Year B.Tech, Computer Science (Artificial Intelligence)",
+  status: " B.Tech 2026 graduate, Computer Science (Artificial Intelligence)",
   tagline:
     "Building intelligent software that transforms complex real-world problems into elegant digital solutions.",
   githubUsername: "Santushti1108",
