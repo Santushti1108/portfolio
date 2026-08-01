@@ -3,7 +3,6 @@ import Reveal from "./Reveal";
 import { profile } from "../data/content";
 import {
   HiOutlineMail,
-  HiOutlinePhone,
   HiOutlineLocationMarker,
 } from "react-icons/hi";
 import { FiGithub, FiLinkedin } from "react-icons/fi";

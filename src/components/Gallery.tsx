@@ -1,8 +1,7 @@
 import { useState } from "react";
-import { AnimatePresence, motion } from "framer-motion";
 import Reveal from "./Reveal";
 import { galleryPlaceholders } from "../data/content";
-import { HiOutlineX } from "react-icons/hi";
+
 
 export default function Gallery() {
   const categories = [
@@ -10,7 +9,7 @@ export default function Gallery() {
     ...Array.from(new Set(galleryPlaceholders.map((g) => g.category))),
   ];
   const [filter, setFilter] = useState("All");
-  const [active, setActive] = useState<number | null>(null);
+  // const [active, setActive] = useState<number | null>(null);
 
   const items =
     filter === "All"

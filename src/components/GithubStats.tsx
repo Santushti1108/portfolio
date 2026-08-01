@@ -1,8 +1,8 @@
 import Reveal from "./Reveal";
-import { profile } from "../data/content";
+// import { profile } from "../data/content";
 
 export default function GithubStats() {
-  const { githubUsername } = profile;
+  // const { githubUsername } = profile;
 
   return (
     <section className="relative px-6 py-8 md:px-12">
