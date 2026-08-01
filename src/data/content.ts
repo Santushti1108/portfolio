@@ -22,7 +22,7 @@ export const profile = {
 
 export const about = {
   paragraphs: [
-    "I'm a final-year Computer Science student specializing in Artificial Intelligence, spending most of my time at the intersection of clean engineering and applied machine learning.",
+    "I'm a 2026 graduate Computer Science student specializing in Artificial Intelligence, spending most of my time at the intersection of clean engineering and applied machine learning.",
     "My work leans toward domains where software has to be correct as much as it has to be usable — renewable energy planning, financial modeling, and data-driven decision tools where a bug isn't just a bad UX moment, it's a wrong number someone relies on.",
     "Outside of shipping features, I care about the craft: readable code, sensible architecture, and interfaces that get out of the way of the person using them.",
   ],
