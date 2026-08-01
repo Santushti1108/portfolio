@@ -38,7 +38,7 @@ export const experience = [
   {
     org: "IRADe",
     role: "Frontend Developer Intern",
-    period: "May 2026 — Aug 2026", // e.g. "Jun 2025 — Aug 2025"
+    period: "May 2026", // e.g. "Jun 2025 — Aug 2025"
     summary:
       "Worked on renewable energy planning tooling, including a Battery Energy Storage System (BESS) calculator with integrated financial analysis for solar + storage decision-making.",
     highlights: [
