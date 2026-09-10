@@ -16,8 +16,8 @@ export const profile = {
   github: "https://github.com/Santushti1108",
   // phone: "+91 00000 00000", // Add your real phone number
   location: "India", // Add your city
-  resumeUrl: "/resume.pdf", // Drop your resume PDF into /public as resume.pdf
-  photoUrl: "/photo.jpg", // Drop your headshot into /public and set e.g. "/photo.jpg"
+  resumeUrl: "/resume1.pdf", // Drop your resume PDF into /public as resume.pdf
+  photoUrl: "/khushi_picture.png", // Drop your headshot into /public and set e.g. "/photo.jpg"
 };
 
 export const about = {
@@ -37,7 +37,7 @@ export const about = {
 export const experience = [
   {
     org: "IRADe",
-    role: "Frontend Developer Intern",
+    role: "full stack Developer Intern",
     period: "May 2026", // e.g. "Jun 2025 — Aug 2025"
     summary:
       "Worked on renewable energy planning tooling, including a Battery Energy Storage System (BESS) calculator with integrated financial analysis for solar + storage decision-making.",
@@ -74,7 +74,7 @@ export const skills = [
   },
   {
     category: "Web",
-    items: ["React", "Node.js", "Express.js", "HTML", "CSS", "Tailwind CSS"],
+    items: ["React.js", "React Native","Node.js", "Express.js", "HTML", "CSS", "Tailwind CSS"],
   },
   {
     category: "Databases",
@@ -82,11 +82,11 @@ export const skills = [
   },
   {
     category: "Development Tools",
-    items: ["Git", "GitHub", "VS Code", "Vite"],
+    items: ["Git", "GitHub", "VS Code", "Vite","Modal","Docker"],
   },
   {
     category: "Artificial Intelligence",
-    items: ["Machine Learning", "OpenCV", "Pandas", "NumPy", "Scikit-learn"],
+    items: ["Machine Learning", "OpenCV", "Pandas", "NumPy", "Scikit-learn","FastAPI"],
   },
   {
     category: "Practice & Design",
